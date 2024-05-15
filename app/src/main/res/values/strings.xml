@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="styleid">styleid</string>
+    <string name="brand">brand</string>
+    <string name="price">price</string>
+    <string name="additionalinfo">additionalInfo</string>
+</resources>
